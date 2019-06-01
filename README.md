@@ -138,12 +138,14 @@ SVM에 대한 강의 자료입니다.
 ### [Lecture19 (05/22) : 주성분 분석(Principal Components Analysis)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_PCA.pdf)
 PCA에 대한 강의 자료입니다.
 - [PCA Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_PCA_By_Hands.ipynb) : PCA from the scratch 입니다. PCA를 직접 손으로 구현해 봅니다.
-- PCA Python Code 2
+- [PCA Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_PCA.ipynb) : Sklearn을 활용하여, PCA를 시각화하고, 적절한 주성분의 갯수를 찾는 방법에 관한 자료입니다.
+- [PCA Python Code 3](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_Dimesional_Reduction_With_PCA.ipynb) : Kaggle의 benz문제를 PCA를 활용하여 해결하는 자료입니다.
 - Reading materials
     - [Stanford CS229 : PCA](http://cs229.stanford.edu/notes/cs229-notes10.pdf)
     
 ### [Lecture20 (06/01) : K-means clustering](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_K_means_clustering.pdf)
 K-means algorithms에 대한 강의 자료입니다.
+- [K-means Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_K_Means_Clustering.ipynb) : K-means clustering 및 적절한 클러스터의 갯수를 찾는 방법에 관한 자료입니다.
 - Reading materials
     - [Stanford CS229 : K-means](http://cs229.stanford.edu/notes/cs229-notes7a.pdf)
 
@@ -151,16 +153,19 @@ K-means algorithms에 대한 강의 자료입니다.
 
 ### [Lecture22 (06/08) : 심층 신경망 기본 + Keras(Deep Neural Network)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture22_DNN.pdf)
 Perceptron 및 Deep Neural Network에 대한 강의자료입니다.
+- DNN Python Code 1
 - Reading material
     - [Stanford CS229 : Perceptron](http://cs229.stanford.edu/notes/cs229-notes-deep_learning.pdf)
     - [Stanford CS229 : Back Propergation](http://cs229.stanford.edu/notes/cs229-notes-backprop.pdf)
     - [Google Dev Demo](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 
-### Lecture26 (06/12) : Feature engineering
+### [Lecture23 (06/12) : Feature selection](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture23_Feature_Selection.pdf)
+Feature selection에 대한 강의 자료입니다.
+- Feature selection Python Code 1
 
-### Lecture26 (06/15) : Real Project 1
+### Lecture24 (06/15) : Real Project 1
 
-### Lecture26 (06/19) : Real Project 2
+### Lecture25 (06/19) : Real Project 2
 
 ### Extra_Lecture01 : Time-series-analysis
 
